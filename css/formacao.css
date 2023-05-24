@@ -149,6 +149,12 @@
     gap: 30px;
   }
 
+  .formacao-conteiner::after {
+    width: 30px;
+    height: 10px;
+    bottom: -5px;
+  }
+
   .formacao .subtitulo {
     font-size: 3rem;
     word-break:keep-all;
